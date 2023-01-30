@@ -46,8 +46,8 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: A
+          description: 80%
           icon: r-project
           icon_pack: fab
         - name: Statistics
