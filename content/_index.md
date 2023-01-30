@@ -16,7 +16,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: A
           description: 90%
           icon: r-project
           icon_pack: fab
