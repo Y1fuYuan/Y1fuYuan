@@ -21,9 +21,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Yuan
 highlight_name: true
-first_name: Alice
+first_name: Yifu
 email: yuanyf@tju.edu.cn
 ---
 Y is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, 
