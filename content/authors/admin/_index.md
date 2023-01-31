@@ -1,12 +1,9 @@
 ---
 title: Yifu Yuan
-role: Professor of Artificial Intelligence
+role: Computer Science PhD candidate at Tianjin University
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,12 +20,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 organizations:
   - name: Tianjin University
     url: http://www.tju.edu.cn/
