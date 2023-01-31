@@ -7,10 +7,12 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: yuanyf@tju.edu.cn
   - icon: github
     icon_pack: fab
-    link: https://github.com/gpickxiguapi
+    link: https://github.com/pickxiguapi
+    display:
+      header: true
 organizations:
   - name: Tianjin University
     url: http://www.tju.edu.cn/
