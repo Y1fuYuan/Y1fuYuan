@@ -1,5 +1,5 @@
 ---
-title: 袁逸夫
+title: Yifu Yuan
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -30,8 +30,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tianjin University
+    url: http://www.tju.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
