@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: YifuYuan's Homepage
 date: 2023-01-31
-type: widget_page
+type: landing
 
 sections:
   # - block: hero
