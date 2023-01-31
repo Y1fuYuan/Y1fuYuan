@@ -4,7 +4,7 @@ role: Computer Science PhD candidate at Tianjin University
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - a;b;c;d;e;asdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  - asdjlkljkadsfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,4 +30,4 @@ highlight_name: true
 first_name: Yifu
 email: yuanyf@tju.edu.cn
 ---
-Y is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddc
+Y is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, qaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddcsdffffffffffss
