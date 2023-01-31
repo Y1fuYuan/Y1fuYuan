@@ -21,7 +21,7 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Yuan
+last_name: Wu
 highlight_name: true
 first_name: Yifu
 email: yuanyf@tju.edu.cn
